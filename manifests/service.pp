@@ -1,4 +1,4 @@
-class ssh_tpt::service {
+class ssh_totp::service {
 
   service { "ssh":
     ensure     => running,
